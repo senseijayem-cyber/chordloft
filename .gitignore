@@ -1,0 +1,11 @@
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+*.jks
+*.keystore
+app/src/main/assets/fonts/*.ttf
